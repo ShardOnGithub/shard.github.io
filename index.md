@@ -55,4 +55,4 @@ Rename the "Timer" and "NextBeatTime" variables to your character's name. For ex
 
 ##### Editing Keybinds
 
-The second script you should've dragged is the poses script. Basically if you press the key that is on the "when _ key pressed" block, it plays an animation. Change it to whatever keybind you prefer.
+The second script you should've dragged is the poses script. Basically if you press the key that is on the "when _ key pressed" block, it plays an animation. Change it to whatever keybind you prefer. Next, go to the "repeat until _ " block, and change the "key _ pressed" input to the keybind on top.
