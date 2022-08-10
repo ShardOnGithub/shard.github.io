@@ -60,3 +60,7 @@ The second script you should've dragged is the poses script. Basically if you pr
 ### Backdrops
 
 Basically the background of a song. It's just like getting sprites.
+
+### Importing .mp3 files
+
+Find the .mp3 file for your song. (I recommend this site: https://downloads.khinsider.com/friday-night-funkin) Remember the sprites button? Next to it, is a backdrops button, and the backdrops _pane_ is above it. Click it, then go to "Sounds" on the top left. Hover over the bottom left button, and find an upload icon. Your mp3 should be in it once done! (Remember to change the "start sound" block's output and the bpm (block labeled "set tempo to _ "))
