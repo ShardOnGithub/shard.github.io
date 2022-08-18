@@ -1,6 +1,6 @@
 # Welcome to my tutorial on how to edit my Friday Night Funkin' Scratch Test Engine!
 
-You're probably here because you didn't understand or needed help with my recently published Friday Night Funkin' Test Engine. Look no further, you've come to the right place. Also, this tutorial is mainly focused on people who have probably never used Scratch before.
+You're probably here because you didn't understand or needed help with my recently published Friday Night Funkin' Test Engine. Look no further, you've come to the right place. Also, this tutorial is mainly focused on people who have probably never used Scratch before, so if you have, you may proceed to follow with the guide without the extra bits that you don't need to listen to.
 
 ### The Link to the Original Scratch Project (you may follow along with this tutorial)
 
@@ -55,7 +55,7 @@ Rename the "Timer" and "NextBeatTime" variables to your character's name. For ex
 
 ##### Editing Keybinds
 
-The second script you should've dragged is the poses script. Basically if you press the key that is on the "when _ key pressed" block, it plays an animation. Change it to whatever keybind you prefer. Next, go to the "repeat until _ " block, and change the "key _ pressed" input to the keybind on top. Remember to duplicate the scripts and edit them to make them enact the desired animation.
+The second script you should've dragged is the poses script. Basically if you press the key that is on the "when _ key pressed" block, it plays an animation. Change it to whatever keybind you prefer. Next, go to the "repeat until _ " block, and change the "key _ pressed" input to the keybind on top.
 
 ### Backdrops
 
@@ -63,4 +63,4 @@ Basically the background of a song. It's just like getting sprites.
 
 ### Importing .mp3 files
 
-Find the .mp3 file for your song. (I recommend this site: https://downloads.khinsider.com/friday-night-funkin) Remember the sprites button? Next to it, is a backdrops button, and the backdrops _pane_ is above it. Click it, then go to "Sounds" on the top left. Hover over the bottom left button, and find an upload icon. Your mp3 should be in it once done! (Remember to change the "start sound" block's output and the bpm (block labeled "set tempo to _ "))
+Find the .mp3 file for your song. (I recommend this site: https://downloads.khinsider.com) Remember the sprites button? Next to it, is a backdrops button, and the backdrops _pane_ is above it. Click it, then go to "Sounds" on the top left. Hover over the button on the bottom left of the screen, and you'll find an upload icon at the top of the menu. Upload it, and your mp3 should be in it once done! (Remember to change the "start sound" block's output and the bpm, which you can find in the base game! (block labeled "set tempo to _ "))
